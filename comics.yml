@@ -30,53 +30,53 @@ comics:
     category:
       - pub
     date: 2010-01-31T10:24:48.000Z
-  - photo: tmt.PNG
+  - photo: tmt.png
     title: Timmyte
     date: 2010-01-31T08:43:16.000Z
-  - photo: tr29.PNG
+  - photo: tr29.png
     title: Tonton Richard n°29
     category:
       - tonton-richard
     date: 2010-01-31T09:06:36.000Z
-  - photo: tdm.PNG
+  - photo: tdm.png
     title: Tour de magie
     date: 2010-01-31T08:24:40.000Z
-  - photo: sasc2.PNG
+  - photo: sasc2.png
     title: Suspence à son comble 2
     date: 2010-01-30T21:38:30.000Z
-  - photo: saf.PNG
+  - photo: saf.png
     title: Safari
     date: 2010-01-30T20:50:06.000Z
-  - photo: cs.PNG
+  - photo: cs.png
     title: Combat de sabre
     date: 2010-01-30T20:18:32.000Z
-  - photo: rac.PNG
+  - photo: rac.png
     title: La racaille
     date: 2010-01-30T18:41:18.000Z
-  - photo: funa.PNG
+  - photo: funa.png
     title: Funambule
     date: 2010-01-30T16:33:06.000Z
-  - photo: asc.PNG
+  - photo: asc.png
     title: L'ascenseur
     date: 2010-01-30T18:10:22.000Z
-  - photo: bout.PNG
+  - photo: bout.png
     title: Boutique souvenir
     date: 2010-01-30T14:05:12.000Z
   - photo: voy.gif
     title: Voyage
     date: 2010-01-30T13:37:28.000Z
-  - photo: ps3.PNG
+  - photo: ps3.png
     title: Plus simple
     date: 2010-01-30T13:04:44.000Z
-  - photo: c4.PNG
+  - photo: c4.png
     title: Critique n°4
     category:
       - critique
     date: 2010-01-30T12:19:36.000Z
-  - photo: neige.PNG
+  - photo: neige.png
     title: Neige
     date: 2010-01-30T11:07:02.000Z
-  - photo: p26.PNG
+  - photo: p26.png
     title: Pub n°26
     category:
       - pub
@@ -87,7 +87,7 @@ comics:
   - photo: pa.png
     title: Da ? Panda !!
     date: 2010-01-04T18:07:18.000Z
-  - photo: fepf.PNG
+  - photo: fepf.png
     title: Perdu dans la forêt
     date: 2010-01-30T12:07:48.000Z
   - photo: c15.bmp
@@ -109,7 +109,7 @@ comics:
   - photo: aam.png
     title: Attention à la marche
     date: 2009-06-07T19:41:00.000Z
-  - photo: bm.PNG
+  - photo: bm.png
     title: Battle mediena
     date: 2007-07-16T20:51:08.000Z
   - photo: bc.bmp
@@ -121,16 +121,16 @@ comics:
   - photo: c.png
     title: Casino
     date: 2009-06-07T20:31:18.000Z
-  - photo: ca.PNG
+  - photo: ca.png
     title: Casser l'ambiance
     date: 2007-07-16T22:43:00.000Z
-  - photo: c2.PNG
+  - photo: c2.png
     title: Censuré
     date: 2009-04-09T20:07:26.000Z
   - photo: cp2.bmp
     title: Centre pokémon
     date: 2008-11-08T13:42:42.000Z
-  - photo: co.PNG
+  - photo: co.png
     title: Clin d'oeil
     date: 2009-05-03T17:54:06.000Z
   - photo: c11.bmp
@@ -166,16 +166,16 @@ comics:
     category:
       - critique
     date: 2008-11-05T14:41:32.000Z
-  - photo: to.PNG
+  - photo: to.png
     title: Trompe l'oeil
     date: 2009-05-01T19:31:58.000Z
   - photo: fpg.png
     title: Fallait pas glisser !
     date: 2009-05-01T19:43:32.000Z
-  - photo: itg.PNG
+  - photo: itg.png
     title: In the grotte
     date: 2009-05-01T18:45:22.000Z
-  - photo: itg2.PNG
+  - photo: itg2.png
     title: In the grotte 2
     date: 2009-05-01T19:18:22.000Z
   - photo: int.bmp
@@ -194,13 +194,13 @@ comics:
   - photo: lf.bmp
     title: La folle
     date: 2008-11-05T13:26:18.000Z
-  - photo: lna.PNG
+  - photo: lna.png
     title: La nouvelle Azuria
     date: 2009-05-01T18:32:00.000Z
-  - photo: lnp.PNG
+  - photo: lnp.png
     title: La nouvelle Parmanie
     date: 2009-05-01T18:36:50.000Z
-  - photo: lns.PNG
+  - photo: lns.png
     title: La nouvelle Safrania
     date: 2009-05-01T18:29:50.000Z
   - photo: lar.bmp
@@ -209,10 +209,10 @@ comics:
   - photo: lp.bmp
     title: Le punk
     date: 2008-11-08T13:28:04.000Z
-  - photo: sod.PNG
+  - photo: sod.png
     title: Le secret du digimonde
     date: 2009-04-10T20:40:56.000Z
-  - photo: log.PNG
+  - photo: log.png
     title: Logical
     date: 2009-04-10T19:27:04.000Z
   - photo: mar.png
@@ -224,19 +224,19 @@ comics:
   - photo: own.png
     title: Owned
     date: 2009-02-10T17:34:50.000Z
-  - photo: pacm.PNG
+  - photo: pacm.png
     title: Pac&mon
     date: 2009-04-10T17:49:38.000Z
   - photo: pavc.bmp
     title: Passer avec un vélo cross
     date: 2008-11-08T16:15:46.000Z
-  - photo: pdlf.PNG
+  - photo: pdlf.png
     title: Perdu dans la forêt
     date: 2009-04-10T18:07:06.000Z
   - photo: ps.png
     title: Pikachu surf
     date: 2007-07-16T22:04:44.000Z
-  - photo: pok.PNG
+  - photo: pok.png
     title: Poker
     date: 2009-04-10T18:29:34.000Z
   - photo: p1.bmp
@@ -244,7 +244,7 @@ comics:
     category:
       - pub
     date: 2008-11-04T19:58:34.000Z
-  - photo: p2.PNG
+  - photo: p2.png
     title: Pub n°2
     category:
       - pub
@@ -264,7 +264,7 @@ comics:
     category:
       - pub
     date: 2008-11-05T14:08:42.000Z
-  - photo: rag.PNG
+  - photo: rag.png
     title: Ragnarok
     date: 2007-07-16T23:06:34.000Z
   - photo: roo.png
@@ -335,25 +335,25 @@ comics:
   - photo: tc.png
     title: Technique de combat
     date: 2009-02-09T19:34:40.000Z
-  - photo: tqi.PNG
+  - photo: tqi.png
     title: Test QI
     date: 2009-04-09T19:35:28.000Z
-  - photo: tr24.PNG
+  - photo: tr24.png
     title: Tonton Richard n°24
     category:
       - tonton-richard
     date: 2009-04-09T20:00:52.000Z
-  - photo: tr26.PNG
+  - photo: tr26.png
     title: Tonton Richard n°26
     category:
       - tonton-richard
     date: 2009-04-10T19:16:24.000Z
-  - photo: tr27.PNG
+  - photo: tr27.png
     title: Tonton Richard n°27
     category:
       - tonton-richard
     date: 2009-04-13T12:19:24.000Z
-  - photo: tr28.PNG
+  - photo: tr28.png
     title: Tonton Richard n°28
     category:
       - tonton-richard
@@ -361,10 +361,10 @@ comics:
   - photo: ti.bmp
     title: Travelo inside
     date: 2008-11-05T16:44:18.000Z
-  - photo: vp.PNG
+  - photo: vp.png
     title: Vie passionante
     date: 2009-04-09T19:22:18.000Z
-  - photo: lrck.PNG
+  - photo: lrck.png
     title: Tue les pokémons à la rocket
     date: 2009-05-01T19:49:00.000Z
   - photo: vol.png
