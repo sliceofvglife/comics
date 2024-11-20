@@ -1,0 +1,3 @@
+Ça doit être terrible pour un nageur de se retrouver face à un Wailmer…
+
+En tout cas moi je ferais une crise cardiaque.

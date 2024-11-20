@@ -1,3 +1,4 @@
+scale: 2
 categories:
   - id: all
     title: Tout
@@ -271,6 +272,7 @@ comics:
     date: 2008-11-05T14:08:42.000Z
   - photo: rag.png
     title: Ragnarok
+    scale: 1.5
     date: 2007-07-16T23:06:34.000Z
   - photo: roo.png
     title: Roooo
