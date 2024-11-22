@@ -1,0 +1,3 @@
+Cette fille était complètement folle…
+
+Chaque fois qu’elle nous croisait quelque part elle réclamait un combat Pokémon.
