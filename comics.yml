@@ -14,6 +14,11 @@ categories:
     title: Interview
   - id: souvenir-arene
     title: Souvenir d'arène
+games:
+  - id: pokemon-rouge-feu
+    title: Rouge Feu
+  - id: pokemon-rubis
+    title: Rubis
 comics:
   - photo: tdd.png
     title: Pub n°33
@@ -43,7 +48,7 @@ comics:
     title: Tour de magie
     date: 2010-01-31T08:24:40.000Z
   - photo: sasc2.png
-    title: Suspence à son comble 2
+    title: Suspense à son comble n°2
     date: 2010-01-30T21:38:30.000Z
   - photo: saf.png
     title: Safari
@@ -109,6 +114,8 @@ comics:
     date: 2008-11-05T19:50:02.000Z
   - photo: aam.png
     title: Attention à la marche
+    category:
+      - pokemon-rouge-feu
     date: 2009-06-07T19:41:00.000Z
   - photo: bm.png
     title: Battle mediena
@@ -128,12 +135,16 @@ comics:
     date: 2007-07-16T22:43:00.000Z
   - photo: c2.png
     title: Censuré
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-09T20:07:26.000Z
   - photo: cp2.bmp
     title: Centre pokémon
     date: 2008-11-08T13:42:42.000Z
   - photo: co.png
     title: Clin d'oeil
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-03T17:54:06.000Z
   - photo: c11.bmp
     title: Conseil n°1
@@ -158,6 +169,8 @@ comics:
     date: 2008-11-08T17:26:58.000Z
   - photo: cpc.png
     title: Conseils du professeur Chen
+    category:
+      - pokemon-rouge-feu
     date: 2009-02-09T18:49:16.000Z
   - photo: c22.bmp
     title: Critique n°2
@@ -171,15 +184,23 @@ comics:
     date: 2008-11-05T14:41:32.000Z
   - photo: to.png
     title: Trompe l'oeil
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T19:31:58.000Z
   - photo: fpg.png
     title: Fallait pas glisser !
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T19:43:32.000Z
   - photo: itg.png
     title: In the grotte
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T18:45:22.000Z
   - photo: itg2.png
     title: In the grotte 2
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T19:18:22.000Z
   - photo: int.bmp
     title: Interview n°1
@@ -201,12 +222,18 @@ comics:
     date: 2008-11-05T13:26:18.000Z
   - photo: lna.png
     title: La nouvelle Azuria
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T18:32:00.000Z
   - photo: lnp.png
     title: La nouvelle Parmanie
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T18:36:50.000Z
   - photo: lns.png
     title: La nouvelle Safrania
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T18:29:50.000Z
   - photo: lar.bmp
     title: L'amour du risque
@@ -216,9 +243,13 @@ comics:
     date: 2008-11-08T13:28:04.000Z
   - photo: sod.png
     title: Le secret du digimonde
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-10T20:40:56.000Z
   - photo: log.png
     title: Logical
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-10T19:27:04.000Z
   - photo: mar.png
     title: Marchander
@@ -231,18 +262,24 @@ comics:
     date: 2009-02-10T17:34:50.000Z
   - photo: pacm.png
     title: Pac&mon
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-10T17:49:38.000Z
   - photo: pavc.bmp
     title: Passer avec un vélo cross
     date: 2008-11-08T16:15:46.000Z
   - photo: pdlf.png
     title: Perdu dans la forêt
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-10T18:07:06.000Z
   - photo: ps.png
     title: Pikachu surf
     date: 2007-07-16T22:04:44.000Z
   - photo: pok.png
     title: Poker
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-10T18:29:34.000Z
   - photo: p1.bmp
     title: Pub n°1
@@ -253,6 +290,7 @@ comics:
     title: Pub n°2
     category:
       - pub
+      - pokemon-rouge-feu
     date: 2009-04-10T18:56:04.000Z
   - photo: p3.png
     title: Pub n°3
@@ -279,6 +317,8 @@ comics:
     date: 2010-01-02T21:34:44.000Z
   - photo: sg.png
     title: Sale geek
+    category:
+      - pokemon-rouge-feu
     date: 2009-06-07T20:08:06.000Z
   - photo: scc.bmp
     title: Savoir choisir son camp
@@ -334,45 +374,59 @@ comics:
       - tonton-richard
     date: 2008-11-08T16:34:18.000Z
   - photo: sac.bmp
-    title: Suspence à son comble
+    title: Suspense à son comble n°1
     date: 2008-11-08T18:22:00.000Z
   - photo: ttbt.png
     title: Tagada Tada Boum Tada
+    category:
+      - pokemon-rouge-feu
     date: 2009-06-07T19:20:48.000Z
   - photo: tc.png
     title: Technique de combat
+    category:
+      - pokemon-rouge-feu
     date: 2009-02-09T19:34:40.000Z
   - photo: tqi.png
     title: Test QI
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-09T19:35:28.000Z
   - photo: tr24.png
     title: Tonton Richard n°24
     category:
       - tonton-richard
+      - pokemon-rouge-feu
     date: 2009-04-09T20:00:52.000Z
   - photo: tr26.png
     title: Tonton Richard n°26
     category:
       - tonton-richard
+      - pokemon-rouge-feu
     date: 2009-04-10T19:16:24.000Z
   - photo: tr27.png
     title: Tonton Richard n°27
     category:
       - tonton-richard
+      - pokemon-rouge-feu
     date: 2009-04-13T12:19:24.000Z
   - photo: tr28.png
     title: Tonton Richard n°28
     category:
       - tonton-richard
+      - pokemon-rouge-feu
     date: 2009-05-03T17:41:00.000Z
   - photo: ti.bmp
     title: Travelo inside
     date: 2008-11-05T16:44:18.000Z
   - photo: vp.png
     title: Vie passionante
+    category:
+      - pokemon-rouge-feu
     date: 2009-04-09T19:22:18.000Z
   - photo: lrck.png
     title: Tue les pokémons à la rocket
+    category:
+      - pokemon-rouge-feu
     date: 2009-05-01T19:49:00.000Z
   - photo: vol.png
     title: Vol
