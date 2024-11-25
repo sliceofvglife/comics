@@ -15,7 +15,13 @@ Les Simpson était encore drôle et où la phrase "Aujourd’hui, Coluche
 serait en prison" n’existait pas, nous révèle une vision décalée et parodique
 de l’univers de Pokémon.
 
-Non seulement vous avez la chance de pouvoir découvrir Pokémon Anarchy
+À travers cet humour, la série nous convie également à une
+véritable descente dans la psychée humaine, et surtout dans celle
+de son auteur. Petit bijou de son époque, Pokemon Anarchy est aussi une véritable
+capsule temporelle qui contient un nombre incalculable de références à la pop culture.
+
+Non seulement vous avez la chance de pouvoir faire la
+découverte de ce chef-d’oeuvre
 en qualité optimale après toutes ces années, mais cette publication en ligne
 s’accompagne également de commentaires inédits de son réalisateur qui vient
 apporter un regard nouveau, critique, et souvent humoristique sur sa
