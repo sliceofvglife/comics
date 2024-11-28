@@ -17,6 +17,7 @@ categories:
 games:
   - id: pokemon-rouge-feu
     title: Rouge Feu
+    photo: pokemon-rouge-feu-v2.png
   - id: pokemon-rubis
     title: Rubis
 comics:
@@ -129,9 +130,8 @@ comics:
   - photo: c.png
     title: Casino
     date: 2009-06-07T20:31:18.000Z
-  - photo: ca.png
+  - photo: ca-v2.png
     title: Casser l'ambiance
-    version: 2
     date: 2007-07-16T22:43:00.000Z
   - photo: c2.png
     title: Censuré
@@ -161,9 +161,8 @@ comics:
     category:
       - conseil
     date: 2008-11-08T15:32:56.000Z
-  - photo: c14.bmp
+  - photo: c14-v2.bmp
     title: Conseil n°4 et n°5
-    version: 2
     category:
       - conseil
     date: 2008-11-08T17:26:58.000Z
@@ -202,15 +201,13 @@ comics:
     category:
       - pokemon-rouge-feu
     date: 2009-05-01T19:18:22.000Z
-  - photo: int.bmp
+  - photo: int-v2.bmp
     title: Interview n°1
-    version: 2
     category:
       - interview
     date: 2008-11-08T15:40:30.000Z
-  - photo: int2.bmp
+  - photo: int2-v2.bmp
     title: Interview n°2
-    version: 2
     category:
       - interview
     date: 2008-11-08T17:36:56.000Z
@@ -297,9 +294,8 @@ comics:
     category:
       - pub
     date: 2009-08-26T16:12:12.000Z
-  - photo: p18.bmp
+  - photo: p18-v2.bmp
     title: Pub n°18
-    version: 2
     category:
       - pub
     date: 2008-11-08T19:41:30.000Z
