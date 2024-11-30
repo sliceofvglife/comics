@@ -434,9 +434,12 @@ series:
   - id: pokemon-anarchy-rebirth
     title: Pokemon Anarchy Rebirth
     scale: 2
-    categories:
-      - id: tonton-richard
-        title: Tonton Richard
     games:
-      - id: rubis
-        title: Rubis
+      - id: or-heartgold
+        title: Or HeartGold
+    comics:
+      - photo: cdv.png
+        title: Contre des vues
+        category:
+          - or-heartgold
+        date: 2024-11-30T09:34:45.000Z
