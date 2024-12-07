@@ -15,6 +15,8 @@ series:
         title: Interview
       - id: souvenir-arene
         title: Souvenir d'arène
+      - id: perdu
+        title: Perdu
     games:
       - id: rouge-feu
         title: Rouge Feu
@@ -29,8 +31,10 @@ series:
         category:
           - pub
       - photo: per.png
-        title: Perdu
+        title: Perdu n°3
         date: 2010-01-31T11:58:24.000Z
+        category:
+          - perdu
       - photo: pp.gif
         title: Pikachu
         date: 2010-01-31T11:16:38.000Z
@@ -52,10 +56,10 @@ series:
         date: 2010-01-31T08:24:40.000Z
       - photo: sasc2.png
         title: Suspense à son comble n°2
-        date: 2010-01-30T21:38:30.000Z
-      - photo: saf.png
-        title: Safari
         date: 2010-01-30T20:50:06.000Z
+      - photo: saf.png
+        title: Suspense à son comble n°3
+        date: 2010-01-30T21:38:30.000Z
       - photo: cs-v2.png
         title: Combat de sabre
         date: 2010-01-30T20:18:32.000Z
@@ -97,8 +101,10 @@ series:
         title: Da ? Panda !!
         date: 2010-01-04T18:07:18.000Z
       - photo: fepf.png
-        title: Perdu dans la forêt n°2
+        title: Perdu n°2
         date: 2010-01-30T12:07:48.000Z
+        category:
+          - perdu
       - photo: c15.bmp
         title: Conseil n°15
         category:
@@ -268,9 +274,10 @@ series:
         title: Passer avec un vélo cross
         date: 2008-11-08T16:15:46.000Z
       - photo: pdlf.png
-        title: Perdu dans la forêt n°1
+        title: Perdu n°1
         category:
           - rouge-feu
+          - perdu
         date: 2009-04-10T18:07:06.000Z
       - photo: ps.png
         title: Pikachu surf
@@ -449,12 +456,12 @@ series:
       - photo: jacg.png
         title: Just a Chill Guy
         category:
-        - or-heartgold
+          - or-heartgold
         date: 2024-12-01T17:34:04.000Z
       - photo: c5.png
         title: Critique n°5
         category:
-        - or-heartgold
-        - critique
+          - or-heartgold
+          - critique
         scale: 1
         date: 2024-12-04T22:04:25.000Z
