@@ -1,1 +1,1 @@
-Une courte intermission.
+Une autre courte intermission.
