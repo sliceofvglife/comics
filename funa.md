@@ -1,0 +1,3 @@
+Le tournage de cet épisode était incroyablement risqué car on tenait à le réaliser sans trucage.
+
+Nous avons perdu 25 cascadeurs dans cette affaire…

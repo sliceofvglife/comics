@@ -18,10 +18,10 @@ de l’univers de Pokémon.
 À travers cet humour, la série nous convie également à une
 véritable descente dans la psychée humaine, et surtout dans celle
 de son auteur. Petit bijou de son époque, Pokemon Anarchy est aussi une véritable
-capsule temporelle qui contient un nombre incalculable de références à la pop culture.
+capsule temporelle dont vos streamers react s’échinent encore à découvrir les
+références en nombre incalculable à la pop culture.
 
-Non seulement vous avez la chance de pouvoir faire la
-découverte de ce chef-d’oeuvre
+Non seulement vous avez la chance de pouvoir faire l’expérience de ce chef-d’oeuvre
 en qualité optimale après toutes ces années, mais cette publication en ligne
 s’accompagne également de commentaires inédits de son réalisateur qui vient
 apporter un regard nouveau, critique, et souvent humoristique sur sa
