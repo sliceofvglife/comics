@@ -1,3 +1,0 @@
-On ne pourrait plus faire des blagues comme ça de nos jours…
-
-Mais l’époque était différente.
